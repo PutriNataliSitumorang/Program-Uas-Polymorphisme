@@ -32,9 +32,9 @@ public class Phyton {
          System.out.println("                                                                                                                    ");
          System.out.println("                                                                                                                    ");
          System.out.println("                                                                                                                    ");
-         System.out.println(" Source : https://toghr.com/karakteristik-dan-fitur-java/                                                           ");
-         System.out.println("          https://www.liputantekno.com/karakteristik-bahasa-pemrograman-php/                                        ");
-         System.out.println("          https://www.hestanto.web.id/bahasa-pemrograman-tingkat-tinggi-python/                                     ");
+         System.out.println(" Source Karakteristik Bahasa : https://toghr.com/karakteristik-dan-fitur-java/                                      ");
+         System.out.println("                               https://www.liputantekno.com/karakteristik-bahasa-pemrograman-php/                   ");
+         System.out.println("                               https://www.hestanto.web.id/bahasa-pemrograman-tingkat-tinggi-python/                ");
          System.out.println("                                                                                                                    ");
          System.out.println("                                                                                                                    ");
          System.out.println("                                                                                                                    ");
